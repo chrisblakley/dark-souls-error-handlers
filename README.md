@@ -1,6 +1,6 @@
-# dark-souls-error-handlers
-Error handlers inspired by Dark Souls.
+An error handler inspired by Dark Souls.
 
-When you're ready to start playing, include or require the appropriate file for the language you're working in.
+Include this file using ```require_once('dark_souls_error_handler.php');``` to enable.
 
-Prepare to die.
+Thy intent is to persevere... to the bitter end, hmm?
+Hah hah hah! Good, good. What is bravery, without a dash of recklessness!
